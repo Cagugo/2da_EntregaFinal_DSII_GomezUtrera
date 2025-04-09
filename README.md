@@ -1,3 +1,7 @@
+Link de la presentación Ejecutiva, para ser vista de manera On-line:
+https://app.slidespeak.co/presentation/cm98z9xzr001mp3k19biy5b64/share
+
+
 1. Presentación del Proyecto
 Abstract:
 El proyecto consiste en analizar el comportamiento de los clientes de una empresa de telecomunicaciones (TECO) para predecir la cancelación del servicio (churn). Se realizará un análisis exploratorio que permita identificar patrones en los datos y, a partir de ello, se desarrollará un modelo de clasificación que anticipe qué clientes tienen mayor riesgo de abandonar el servicio.
